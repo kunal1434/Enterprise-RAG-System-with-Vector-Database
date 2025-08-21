@@ -2,9 +2,8 @@
 
 A **production-ready** Retrieval-Augmented Generation (RAG) system with **LLM fine-tuning**, **vector databases**, and **enterprise deployment** capabilities. Built specifically to demonstrate all the technical skills required for the **Techolution AI Intern (Gen AI)** position.
 
-## 🎯 **Perfect Match for Techolution Requirements**
 
-### ✅ **Mandatory Skills Demonstrated:**
+### ✅ **Skills Demonstrated:**
 - **🧠 LLM Fine-tuning**: LoRA-based fine-tuning for Falcon, Llama, GPT models
 - **📊 Vector Databases**: Integration with Pinecone, Chroma, Faiss, Weaviate
 - **🔍 NLP & LangChain**: Advanced text processing and information extraction
