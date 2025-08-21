@@ -1,0 +1,24 @@
+Machine Learning Fundamentals
+
+Machine Learning is a subset of artificial intelligence (AI) that enables computers to learn and make decisions from data without being explicitly programmed for every task.
+
+Key Concepts:
+1. Supervised Learning: Learning from labeled data to make predictions
+2. Unsupervised Learning: Finding patterns in data without labels
+3. Reinforcement Learning: Learning through interaction with an environment
+
+Popular Algorithms:
+- Linear Regression
+- Decision Trees
+- Neural Networks
+- Support Vector Machines
+- Random Forest
+
+Applications:
+- Image Recognition
+- Natural Language Processing
+- Recommendation Systems
+- Fraud Detection
+- Autonomous Vehicles
+
+Machine learning is revolutionizing industries by enabling data-driven decision making and automation of complex tasks.
