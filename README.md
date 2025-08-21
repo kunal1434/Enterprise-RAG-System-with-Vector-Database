@@ -1,6 +1,6 @@
 # 🚀 Enterprise RAG System - 
 
-A **production-ready** Retrieval-Augmented Generation (RAG) system with **LLM fine-tuning**, **vector databases**, and **enterprise deployment** capabilities. Built specifically to demonstrate all the technical skills required for the **Techolution AI Intern (Gen AI)** position.
+A **production-ready** Retrieval-Augmented Generation (RAG) system with **LLM fine-tuning**, **vector databases**, and **enterprise deployment** capabilities. 
 
 
 ### ✅ **Skills Demonstrated:**
